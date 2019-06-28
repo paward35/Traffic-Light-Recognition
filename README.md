@@ -5,3 +5,4 @@ The procedure outlined here produced 25 true positives, 4 false positives and 5 
 The TrafficLightRecognition pdf contains all of the images tested and the details on the process used to find and classify the lights, I have included an example output image below: 
 
  
+![Example Output](Example_Output.png)
